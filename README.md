@@ -1,4 +1,4 @@
-# Smart Complaint Analysis Board
+# Smart Complaint Analysis Dashboard
 
 **Video Demonstration**<br>
 ![video](/Screenshots/demonstration.gif)
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-The **Smart Complaint Analysis Board** is a data analytics project built using **Power BI** to transform raw customer complaint data into meaningful and actionable insights.
+The **Smart Complaint Analysis Dashboard** is a data analytics project built using **Power BI** to transform raw customer complaint data into meaningful and actionable insights.
 
 Organizations often collect large volumes of complaint data but struggle to interpret it effectively. This dashboard simplifies that process by presenting the data visually, allowing users to quickly understand patterns, trends, and key problem areas.
 
